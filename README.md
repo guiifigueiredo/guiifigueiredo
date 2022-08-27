@@ -18,6 +18,6 @@
 </div>
  
   
-  ![Snake animation] https://github.com/guiifigueiredo
+  ![Snake animation] (https://github.com/guiifigueiredo)
   
 
