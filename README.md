@@ -16,6 +16,8 @@
   <img align="center" alt="Gui-C" height="30" width="65" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
   <img align="center" alt="Gui-Java" height="30" width="65" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
 </div>
+ 
   
+  ![Snake animation] https://github.com/guiifigueiredo
   
 
