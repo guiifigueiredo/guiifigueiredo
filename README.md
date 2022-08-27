@@ -1,7 +1,7 @@
 ### Oiii! Eu sou o Guilherme
 
 - 🔭 Eu estou estudando sobre programação!
-- 🌱 Eu estou aprendendo C,HTML,CSS,Javascript, etc.
+- 🌱 Eu estou aprendendo C,React,Nodejs, Mysql, entre outras.
 - 😄 Pronomes: Ele/Dele.
 
 <hr>
